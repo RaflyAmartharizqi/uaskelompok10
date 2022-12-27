@@ -1,7 +1,8 @@
 # uaskelompok10
 
 # Deskripsi Program 
-    Terdapat sebuah blok di pelabuhan yang berisi tiga tumpukan (stack). Tiap tumpukan berisi lima kontainer. Masing- masing kontainer memiliki kode kontainer yang
+  
+  Terdapat sebuah blok di pelabuhan yang berisi tiga tumpukan (stack). Tiap tumpukan berisi lima kontainer. Masing- masing kontainer memiliki kode kontainer yang
   berbeda. Tumpukan pertama berisi kontainer tujuan Surabaya dengan kode tujuan ‘s’. Tumpukan kedua berisi kontainer tujuan Lombok dengan kode tujuan ‘l’. Tumpukan 
   terakhir berisi kontainer tujuan Papua dengan kode tujuan ‘p’. Tiap tumpukan didapatkan dari proses bongkar muat dari truk yang datang sesuai dengan antrian (Queue). 
   Sedangkan untuk truk sendiri memiliki nopol, kode kontainer, dan tujuan yang berbeda. Prosesnya adalah truk datang sesuai antrian (Queue) lalu menginputkan nopol, kode 
