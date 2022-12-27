@@ -1,7 +1,10 @@
 # uaskelompok10
 
-![alt text](https://github.com/RaflyAmartharizqi/uaskelompok10/blob/main/WhatsApp%20Image%202022-12-27%20at%2013.31.48.jpg)
+# Proses saat antri untuk diangkat kontainer (Queue)
 ![alt text](https://github.com/RaflyAmartharizqi/uaskelompok10/blob/main/WhatsApp%20Image%202022-12-27%20at%2013.32.19.jpg)
+
+# Proses saat pengangkatan kontainer ke tumpukan kontainer (Stack)
+![alt text](https://github.com/RaflyAmartharizqi/uaskelompok10/blob/main/WhatsApp%20Image%202022-12-27%20at%2013.31.48.jpg)
 
 # Deskripsi Program 
   
