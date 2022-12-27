@@ -1,6 +1,6 @@
 # UAS Kelompok 10
 1.	Lativa Yulia Taviani 			(21081010294)
-2.	Muhammad Raffly Amartharizqi		(21081010311)
+2.	Muhammad Rafly Amartharizqi		(21081010311)
 3.	Calvin Syamdhan Santoso 		(21081010319)
 4.	Firhan Ali Sofi 			(21081010326)
 5.	M. Iqbal Fikri R.A 			(21081010334)
