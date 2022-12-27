@@ -1,4 +1,10 @@
-# uaskelompok10
+# UAS Kelompok 10
+1.	Lativa Yulia Taviani 			(21081010294)
+2.	Muhammad Raffly Amartharizqi		(21081010311)
+3.	Calvin Syamdhan Santoso 		(21081010319)
+4.	Firhan Ali Sofi 			(21081010326)
+5.	M. Iqbal Fikri R.A 			(21081010334)
+
 
 # Proses saat antri untuk diangkat kontainer (Queue)
 ![alt text](https://github.com/RaflyAmartharizqi/uaskelompok10/blob/main/WhatsApp%20Image%202022-12-27%20at%2013.32.19.jpg)
